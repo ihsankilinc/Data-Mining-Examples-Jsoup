@@ -9,5 +9,5 @@ This repository contains 3 different examples of **data extracting from an html 
 
 ![resim](https://user-images.githubusercontent.com/34381517/151245011-8033c301-f4d2-48b7-adab-9a9d6c1da8ba.png)
 
-**CaptionTakerPlagiarism** extracts chosen range of news from the shared news panel. It will visit all of those news page and generate their plagiarism rates.
+**CaptionTakerPlagiarism** extracts chosen range of news from the shared news panel. It will visit all of those news page after that and generate their plagiarism rates.
 
