@@ -11,3 +11,4 @@ This repository contains 3 different examples of **data extracting from an html 
 
 **CaptionTakerPlagiarism** extracts chosen range of news links from the shared news panel. It will visit all of those news pages after that and generate their plagiarism rates.
 
+![resim](https://user-images.githubusercontent.com/34381517/151246604-3e7f2cad-741a-414c-9933-17445ae874f3.png)
